@@ -1,0 +1,30 @@
+h1{
+  font-family: 'Limelight', cursive;
+  color: #BF6589;
+}
+h2{
+  font-family: 'Poiret One', cursive;
+  color: #BF6589;
+}
+h3{
+  font-family: 'Limelight', cursive;
+  color: #F2A7BD;
+}
+p{
+  font-family: 'Poiret One', cursive;
+  color: #E2A1CF;
+}
+h3,p{
+  display: inline;
+}
+div{
+  text-align: center;
+  background-color: black;
+}
+img{
+  height:150px;
+  width: 150px;
+}
+.image {
+  object-fit: cover;
+}
